@@ -1,4 +1,9 @@
 Hello world!
 This is a second line
 ewugnowigmd
+<<<<<<< HEAD
 g,mpü,ö,..,#äjb.
+=======
+ugoibhpognghpm.jü,
+
+>>>>>>> 8ebfe6cc69eff13479e4b6045958baa81e791503
